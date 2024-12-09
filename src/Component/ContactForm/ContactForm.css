@@ -1,0 +1,49 @@
+.form{
+    display: flex;
+    height: 345px;
+    width: 100%;    
+}
+.left{
+    /* background-color: red; */
+    width: 50%;
+}
+.right{
+    /* background-color: blue; */
+    width: 50%;
+}
+.button{
+    display: flex;
+    gap: 32px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 8px 20px;
+    margin-right: 25px;
+    border: 1px solid black;
+    outline: none;
+    padding: 10px 15px;
+}
+textarea{
+    height: 100px;
+    margin-left: 19px;
+    margin-right: 25px;
+    margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 1px solid black;
+    height: 85px;
+}
+.right img{
+    height: 100%;
+    width: 100%;
+    margin-top: 8px;
+}
+.submit{
+    float: right;
+    margin-right: 24px;
+}

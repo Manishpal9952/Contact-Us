@@ -1,0 +1,16 @@
+
+.para{
+    width: 70%;
+    text-align: justify;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+p{
+    font-size: 20px;
+    font-weight: 530;
+    color: brown;
+}
+h1{
+    color: rgb(23, 65, 99);
+    margin-bottom: 15px;
+}
